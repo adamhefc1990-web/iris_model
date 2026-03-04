@@ -1,0 +1,19 @@
+# venv
+.venv/
+venv/
+
+# python
+__pycache__/
+*.pyc
+
+# jupyter
+.ipynb_checkpoints/
+
+# outputs (generated)
+outputs/
+
+# editor
+.vscode/
+
+# OS
+.DS_Store
